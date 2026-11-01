@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DisasterAid — Disaster Management & Emergency Response System
 
 > **MCA Academic Capstone Project**  
@@ -200,3 +201,7 @@ The application will be accessible at:
 
 ## 📜 Disclaimer
 *DisasterAid is an MCA academic prototype for disaster management research and coordination demonstration. For real-life emergencies, contact official emergency services (112 / 108 / 101).*
+=======
+# Disaster-Aid
+A full-stack MERN-based Disaster Management System designed to manage disaster reports, emergency responses, rescue operations, and real-time information through an interactive web application.
+>>>>>>> bab5cfaa53d33ce0fcea8c1b53b53f8c21fd884f
